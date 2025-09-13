@@ -44,11 +44,13 @@ cd ANN_Regression
 ```
 
 ### 2️⃣ Install Dependencies
+```bash
 pip install -r requirements.txt
-
+```
 
 ### 3️⃣ Run Jupyter Notebook
+```bash
 jupyter notebook salaryregression.ipynb
-
+```
 
 This project is licensed under the Apache License 2.0
